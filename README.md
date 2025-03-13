@@ -2,7 +2,7 @@
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
-    <title> Kurze Vorstellung</title>
+    
   </head>
   <body>
     <img src="https://i.ibb.co/wrNPs1RY/Geshicht.jpg" alt="Geshicht" width="150" length="150"/>
