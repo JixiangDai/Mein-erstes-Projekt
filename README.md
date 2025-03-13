@@ -1,2 +1,2 @@
-# Mein-erstes-Projekt
+# Ein Informations Seite über mich
 Eine kurze "About me" seite
